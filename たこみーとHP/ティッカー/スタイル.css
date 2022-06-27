@@ -1,0 +1,242 @@
+@charset "utf-8";
+
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 15px;
+  line-height: 2;
+}
+
+
+ul {
+  margin: 0;
+  padding: 0;
+  }
+
+a {
+  color: #D2691E;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #696969;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+header {
+  width: 970px;
+  height: 100px;
+  margin: 0 auto;
+  border-bottom: 2px #D2691E solid
+}
+
+.logo {
+  float: left;
+  margin-top: 10px;
+}
+
+.global-nav {
+  float: right;
+  margin-top: 70px;
+}
+
+.global-nav li {
+  float: left;
+  margin: 0 19px;
+  font-size: 19px;
+  list-style: none;
+}
+
+#wrap {
+  clear: both;
+  margin-top: 30px;
+}
+
+#cos h1 {
+  margin-bottom: 30px;
+}
+
+
+
+h1 {
+  font-size: 35px;
+  margin-top: 20px;
+  color: #663300
+}
+
+h2 {
+	border-bottom: 1px solid #cccc99;
+}
+
+h3 {
+  margin-top: 30px;
+  margin-bottom: 5px;
+  background:linear-gradient(transparent 90%, #CCCC99 0%);
+  display: inline-block;
+}
+
+.content {
+  width: 960px;
+  margin: 0 auto;
+  margin-bottom: 80px;
+}
+
+.zikan {
+	float: right;
+	width: 350px;
+	margin-right: 120px;
+}
+
+.basyo {
+	float: left;
+	width: 350px;
+}
+
+span {
+  margin-right: 0px;
+}
+
+form {
+       margin: 0 0px;
+       width: 50%;
+       background-color: #CCCCCC
+}
+
+
+form div {
+   margin-bottom: 14px;
+   margin: 10px 20px;
+}
+
+label{
+  font-size: 1.125rem;
+  margin-bottom: 10px;
+  display: block;
+}
+
+input[type="text"]
+input[type="email"]
+textarea {
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 1rem;
+}
+
+input[type="text"]
+input[type="email"]{
+     width: 100%;
+   max-width: 240px}
+
+   textarea {
+     width: 100%;
+     max-width: 400px;
+     height: 6rem;
+   }
+
+input[type="submit"]{
+  border: none;
+  cursor: pointer;
+  line-height: 1;
+}
+
+.button {
+  margin-left: 350px
+}
+
+.main-menu-list {
+  list-style: none;
+    display: flex;
+}
+
+.main-menu-list p {
+	font-size: 18px;
+	margin-bottom: 0;
+	margin-top: 0;
+}
+
+.main-menu-list img {
+  width: 17vw;
+  margin-right: 80px;
+}
+
+footer {
+  margin-top: auto;
+  padding: 30px 0;
+  color: #8B4513;
+  text-align: center;
+  background: #F5DEB3;
+  clear: both;
+}
+
+.wrapper {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 4%;
+}
+  
+.takocar img {
+  float: right;
+  width: 25vw;
+  margin-left: 30px;
+  margin-right: 30px;
+
+}
+
+.setubun {
+	font-size: 16px;
+	margin-bottom: 60px;
+	
+}
+
+#itii img {
+	clear: both;
+	width: 5vw;
+}
+
+#abokado img {
+   width: 17vw;
+   margin-left: 0;
+   margin-right: 30px;
+   margin-bottom: 60px;
+   float: left;
+}
+
+.setubun a {
+	font-size: 12px;
+	margin-left: 30px;
+}
+
+.pay section {
+	clear: both;
+}
+
+.pay img{
+	width: 50vw;
+	margin-top: 0;
+	margin-left: 0px;
+}
+
+.takocar h2 {
+	margin-left: 0;
+}
+
+#top h2 {
+	clear: both;
+	margin-left: auto;
+}
+
+
+.tweee {
+	width: 350px;
+	float: left;
+}
+
+.osirase {
+	float: right;
+	width: 350px;
+	margin-right: 120px;
+	
+}
